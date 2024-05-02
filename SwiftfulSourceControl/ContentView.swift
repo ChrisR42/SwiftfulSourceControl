@@ -14,14 +14,14 @@
  BUG IN PRODUCTION:
  [Patch] Description of patch
  
+ RELEASE:
+ [Release] Description of release
+ 
  BUG NOT IN PRODUCTION:
  [Bug] Description of the bug
 
  MUNDANE TASK:
  [Clean] Description of changes
- 
- RELEASE:
- [Release] Description of release
  */
 
 import SwiftUI
