@@ -8,6 +8,8 @@
 import SwiftUI
 
 struct HomeView: View {
+    
+    @State private var title: String = ""
     var body: some View {
         Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
         ZStack{
@@ -18,7 +20,7 @@ struct HomeView: View {
             
             Text("Screen 2!")
             Text("Screen 2!")
-            Text("Screen 2!")
+            Text("Screen 3!")
             
             
         }
