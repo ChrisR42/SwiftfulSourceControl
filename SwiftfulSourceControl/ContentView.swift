@@ -13,6 +13,9 @@
  Stash = Save changes for later
  Push = Send local commits to remote repo
  Pull = Fetch remote commits to local repo
+ Merge = Joining two different branches
+ Rebase = Moving one branch on top of another branch
+ Cherry picking = Duplicating (copying) one commit from one branch to another
  
  
  COMMIT MESSAGE
