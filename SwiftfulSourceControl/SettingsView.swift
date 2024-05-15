@@ -10,7 +10,7 @@ import SwiftUI
 struct SettingsView: View {
     var body: some View {
         VStack{
-            Label("Settings", systemImage: "gear")
+            Label("Settings View", systemImage: "gear")
                 .font(.largeTitle)
                 .foregroundStyle(.cyan)
             Spacer()
