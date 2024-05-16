@@ -8,6 +8,7 @@
 import SwiftUI
 
 struct SettingsView: View {
+    @State private var doSomething = false
     var body: some View {
         VStack{
             Label("Settings View", systemImage: "gear")
