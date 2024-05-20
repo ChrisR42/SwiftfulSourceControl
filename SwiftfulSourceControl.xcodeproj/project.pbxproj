@@ -13,6 +13,7 @@
 		AD5B7AA02BE27E64002184CA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AD5B7A9F2BE27E64002184CA /* Assets.xcassets */; };
 		AD5B7AA32BE27E64002184CA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AD5B7AA22BE27E64002184CA /* Preview Assets.xcassets */; };
 		AD971A5C2BF249990002056E /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD971A5B2BF249990002056E /* SettingsView.swift */; };
+		ADE65BF12BFB479200C6ED46 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE65BF02BFB479200C6ED46 /* ProfileView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		AD5B7A9F2BE27E64002184CA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AD5B7AA22BE27E64002184CA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		AD971A5B2BF249990002056E /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		ADE65BF02BFB479200C6ED46 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				AD5B7A9D2BE27E63002184CA /* ContentView.swift */,
 				AD22D6062BE4318E00E23A4D /* HomeView.swift */,
 				AD971A5B2BF249990002056E /* SettingsView.swift */,
+				ADE65BF02BFB479200C6ED46 /* ProfileView.swift */,
 				AD5B7A9F2BE27E64002184CA /* Assets.xcassets */,
 				AD5B7AA12BE27E64002184CA /* Preview Content */,
 			);
@@ -145,6 +148,7 @@
 			files = (
 				AD22D6072BE4318E00E23A4D /* HomeView.swift in Sources */,
 				AD971A5C2BF249990002056E /* SettingsView.swift in Sources */,
+				ADE65BF12BFB479200C6ED46 /* ProfileView.swift in Sources */,
 				AD5B7A9E2BE27E63002184CA /* ContentView.swift in Sources */,
 				AD5B7A9C2BE27E63002184CA /* SwiftfulSourceControlApp.swift in Sources */,
 			);
