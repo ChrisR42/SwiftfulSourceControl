@@ -16,6 +16,9 @@ struct ProfileView: View {
                 .font(.largeTitle)
             Text("Chris")
         }
+        .onAppear(perform: {
+            
+        })
        
         
     }
